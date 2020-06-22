@@ -10,6 +10,7 @@
 
 
 ## Plugins
+
 - [HaveIBeenPwned](https://plugins.keeweb.info/plugins/haveibeenpwned/index.html)
 
 
@@ -18,6 +19,7 @@
 - [Nord Theme](https://plugins.keeweb.info/plugins/theme-nord)
 - [Mojave](https://github.com/agurodriguez/keeweb-mojave)
 - [Cupertino](https://github.com/btxtiger/keeweb-cupertino-theme)
+- [THGWorks](https://plugins.keeweb.info/plugins/theme-thgworks/)
 
 
 ## Contribute
