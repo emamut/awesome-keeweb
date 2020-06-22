@@ -10,6 +10,7 @@
 
 
 ## Plugins
+- [HaveIBeenPwned](https://plugins.keeweb.info/plugins/haveibeenpwned/index.html)
 
 
 ## Themes
